@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "name": "Campsites",
-      "properties": {Menomonee Valley Campsites}
+      "properties": {
         "Name": "Menomonee Valley Campsites",
         "stroke": "#555555",
         "stroke-width": 2,
@@ -51,7 +51,7 @@
     },
     {
       "type": "Feature",
-      "properties": {East Water Campsites}
+      "properties": {
         "Name": "East Water Campsites",
         "stroke": "#555555",
         "stroke-width": 2,
@@ -118,7 +118,7 @@
     },
     {
       "type": "Feature",
-      "properties": {Michigan Street Sites}
+      "properties": {
         "Name": "Michigan Street Sites",
         "stroke": "#555555",
         "stroke-width": 2,
